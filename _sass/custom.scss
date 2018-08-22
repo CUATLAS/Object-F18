@@ -4,7 +4,7 @@
 
 h2{
   font-size:3em;
-  padding-bottom:.7em;
+  // padding-bottom:.7em;
 }
 
 .fornext{
@@ -15,7 +15,7 @@ h2{
 }
 
 .lab{
-  font-family:"roboto";
+  // font-family:"roboto";
   // background-color:#f206df;
   background-color:#199c8a;
   color:white;
@@ -24,6 +24,7 @@ h2{
   a{
     border:none;
     font-weight: 600;
+    color:white;
   }
 }
 
@@ -36,12 +37,13 @@ h2{
   }
 }
 .proj{
-  font-family:"roboto";
+  // font-family:"roboto";
   background-color:#b764a8;
   color:white;
   font-weight:400;
   padding:2px 6px;
   a{
+    color:white;
     border:none;
     font-weight: 600;
   }
@@ -58,10 +60,11 @@ h2{
   font-weight:500;
 }
 
-.ass{
-  font-family:"Roboto";
-  text-transform: capitalize;
-}
+// p.ass{
+//   font-family:"Roboto";
+//   text-transform: capitalize;
+//   margin-top:3em;
+// }
 
 
 img{
