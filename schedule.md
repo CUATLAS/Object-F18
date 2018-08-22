@@ -27,7 +27,7 @@ BTU Lab Orientation, Schematics, Simple Circuits, Electricity, Ohm’s Law, Swit
 
 ## Week 3
 <span class="ass">**Tuesday, September 11th**</span> <br>
-<span class="lab">[Lab 1 Due - Simple Circuits + DIY Switch](/object-f18/lab1)</span><br>
+<span class="lab">[Lab 1 Due - Simple Circuits + DIY Switch](/Object-F18//lab1)</span><br>
 Introduction to Microcontrollers, Electricity as Signals
 
 <span class="ass">**Thursday, September 13th**</span> <br>
@@ -39,7 +39,7 @@ Digital Input & Output, Arduino Programming
 How to Solder, Protoboards, Neopixels
 
 <span class="ass">**Thursday, September 20th**</span> <br>
-<span class="lab">[Lab 2 Due - Digital I/O + Soldering](/object-f18/lab2)</span><br>
+<span class="lab">[Lab 2 Due - Digital I/O + Soldering](/Object-F18//lab2)</span><br>
 Interactivity, Design Discussion, Introduce Project 1, Laser Cut Enclosures
 
 
@@ -48,7 +48,7 @@ Interactivity, Design Discussion, Introduce Project 1, Laser Cut Enclosures
 Analog Signals, Sensors, Variable Resistors, Analog Input to Arduino
 
 <span class="ass">**Thursday, September 27th**</span> <br>
-<span class="proj">[Project 1 Proposal Due](/object-f18/project1)</span><br>
+<span class="proj">[Project 1 Proposal Due](/Object-F18//project1)</span><br>
 Analog Output, PWM, Servo Motors, Frequency Modulation
 
 
@@ -57,7 +57,7 @@ Analog Output, PWM, Servo Motors, Frequency Modulation
 Analog Input and Output, Project Enclosures
 
 <span class="ass">**Thursday, October 4th**</span> <br>
-<span class="lab">[Lab 3 Due - Analog I/O + Laser Cut Enclosure](/object-f18/lab3)</span><br>
+<span class="lab">[Lab 3 Due - Analog I/O + Laser Cut Enclosure](/Object-F18//lab3)</span><br>
 Making Sound with Arduino, Shields, Recorded Audio, Audio Software Options <br>
 Guest Lecture
 
@@ -67,7 +67,7 @@ Guest Lecture
 ??
 
 <span class="ass">**Thursday, October 11th**</span> <br>
-<span class="proj">[Project 1 User Testing](/object-f18/project1)</span><br>
+<span class="proj">[Project 1 User Testing](/Object-F18//project1)</span><br>
 
 
 ## Week 8
@@ -75,10 +75,10 @@ Guest Lecture
 Fritzing, Documentation, Work Time
 
 <span class="ass">**Thursday, October 18th**</span> <br>
-<span class="proj">[Project 1 Due](/object-f18/project1)</span><br>
+<span class="proj">[Project 1 Due](/Object-F18//project1)</span><br>
 
 <span class="ass">**Sunday, October 21st**</span> <br>
-<span class="proj">[Project 1 Documentation Due @ 11:59pm](/object-f18/project1)</span>
+<span class="proj">[Project 1 Documentation Due @ 11:59pm](/Object-F18//project1)</span>
 
 
 
@@ -94,7 +94,7 @@ Serial Communication, Sending values from Arduino to P5
 Serial communication to other software
 
 <span class="ass">**Thursday, November 1st**</span> <br>
-<span class="lab">[Lab 4 Due - Serial w/ P5JS](/object-f18/lab4)</span><br>
+<span class="lab">[Lab 4 Due - Serial w/ P5JS](Object-F18//lab4)</span><br>
 Introduction to Motors
 
 
@@ -108,7 +108,7 @@ Mechanisms, Project 2 Discussion
 
 ## Week 12
 <span class="ass">**Tuesday, November 13th**</span> <br>
-<span class="lab">[Lab 5 Due - Motors & Mechanisms](/object-f18/lab5)</span><br>
+<span class="lab">[Lab 5 Due - Motors & Mechanisms](/Object-F18//lab5)</span><br>
 Networking, Radio Communication, Wireless
 
 <span class="ass">**Thursday, November 15th**</span> <br>
