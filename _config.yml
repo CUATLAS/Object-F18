@@ -1,6 +1,6 @@
 # Site settings
-title: Object Spring 2018
-description: "Course website for Object, Spring 2018"
+title: Object Fall 2018
+description: "Course website for Object, Fall 2018"
 url:
 author:
   name: "OBJECT"
@@ -8,7 +8,7 @@ author:
   url:
 
 # Build settings
-baseurl: /object-s18 # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /object-f18 # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
