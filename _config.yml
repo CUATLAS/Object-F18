@@ -8,7 +8,7 @@ author:
   url:
 
 # Build settings
-baseurl: /object-f18 # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /Object-F18 # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
